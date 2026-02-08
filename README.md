@@ -149,7 +149,7 @@
 * [Git - система контроля версий.pdf](https://drive.google.com/file/d/1w7JxdbOeIYHleQKl0wHlH4m03ShVLozs/view?usp=sharing)
 * [Ручное тестирование веб-приложений.pdf](https://drive.google.com/file/d/1MokefBYFxqVVDB2rd3T3k55lU3wOW9we/view?usp=sharing)
 * [Java для тестировщиков.pdf](https://drive.google.com/file/d/1_HEQracKeNchq6TW8bzGveFZ1fz8RlQF/view?usp=sharing)
-* [Автоматизированное тестирование веб-приложений на Java.pdf](https://drive.google.com/file/d/1Bb1SClqybNunns113kJ6GrytfMsbLShE/view?usp=sharing)
+* [Автоматизированное тестирование веб-приложений на Java.pdf](https://drive.google.com/file/d/1y-gG26MUOwr7q6GIn__ug4BiJyXSGADl/view?usp=sharing)
 * [JavaScript для тестировщиков.pdf](https://drive.google.com/file/d/1xv1OEKbtHZxuGU-5jE7Jh5_cDmxqWX-T/view?usp=sharing)
 * [Автоматизация тестирования веб-интерфейсов.pdf](https://drive.google.com/file/d/1Bb1SClqybNunns113kJ6GrytfMsbLShE/view?usp=sharing)
 * [Тестирование мобильных приложений.pdf](https://drive.google.com/file/d/1OAKkkFz5nLy0P2goZB2xRu-cbBkQU79Z/view?usp=sharing)
