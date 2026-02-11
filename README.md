@@ -77,8 +77,7 @@
 - написал [**чек-лист**](https://docs.google.com/spreadsheets/d/183kvQX4qhs84s8G6GMppYB0J6wmkFsvV/edit?usp=sharing&ouid=108067147703345310478&rtpof=true&sd=true);
 - написал [**74 тест-кейса**](https://docs.google.com/spreadsheets/d/1_-kifmTaHWPvqOF15TPmJ5nNuiGFmER2/edit?usp=sharing&ouid=108067147703345310478&rtpof=true&sd=true);
 - автоматизировал 54 тестовых сценария, используя: `Android Studio`, `Java 11`, `Espresso`, `JUnit 4`, `Gradle`, `Allure`;
-- оформил [**баг-репорты**](https://github.com/AlexDedyaev/Diplom_Project_QA_/issues);
-- составил [**отчет о проведенном тестировании**](https://github.com/AlexDedyaev/Course_work/blob/main/docs/Report.md); 
+- оформил [**баг-репорты**](https://github.com/AlexDedyaev/Diplom_Project_QA_/issues); 
 - составил [**отчет о проведённой автоматизации тестирования**](https://github.com/AlexDedyaev/Diplom_Project_QA_/blob/main/Result.md).
 
 ---
