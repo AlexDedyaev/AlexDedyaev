@@ -93,7 +93,7 @@
 * ["Selenide: заказ карты"](https://github.com/AlexDedyaev/Selenide): `IDEA`, `Junit5`, `Gradle`, `Selenide`, `DevTools`
 * ["Заказ доставки карты (изменение даты)"](https://github.com/AlexDedyaev/Patterns): `Junit5`, `Gradle`, `Selenide`, `JavaFaker`, `Lombok`
 * ["Page Object's"](https://github.com/AlexDedyaev/BDD): `Junit5`, `Gradle`, `Selenide`, `Page Object`
-* ["Docker/PostgreSQL"](https://github.com/AlexDedyaev/Docker): `Docker`, `PostgreSQL`
+* ["Docker/PostgreSQL"](https://github.com/AlexDedyaev/Docker): `Docker`, `PostgresSQL`
 * ["SQL"](https://github.com/AlexDedyaev/SQL): `Junit5`, `Gradle`, `Selenide`, `JavaFaker`, `Docker`, `MySQL`, `Lombok`
 * ["Allure"](https://github.com/AlexDedyaev/Allure): `Allure`, `CI`
 
