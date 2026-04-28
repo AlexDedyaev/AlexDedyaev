@@ -13,28 +13,11 @@
 
 ## 🛠️ Мой стек
 
-<p align="center">
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="40" height="40" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" />
-  <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/influxdb.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
-  <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/blazemeter.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" />
-  <img width="40" height="40" src="https://raw.githubusercontent.com/zaproxy/zap-core-help/main/src/help/zaphelp/images/zap32x32.png" />
-  <img width="40" height="40" src="https://www.wireshark.org/favicon.ico" />
-</p>
+## 🛠️ Мой стек
+
+| | | | | | | | | | | | | | | | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /> | <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> | <img width="40" height="40" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" /> | <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> | <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/influxdb.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" /> | <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/blazemeter.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" /> | <img width="40" height="40" src="https://raw.githubusercontent.com/zaproxy/zap-core-help/main/src/help/zaphelp/images/zap32x32.png" /> | <img width="40" height="40" src="https://www.wireshark.org/favicon.ico" /> |
 
 ---
 ## My Projects
