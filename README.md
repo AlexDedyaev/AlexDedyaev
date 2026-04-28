@@ -13,28 +13,9 @@
 
 ## 🛠️ Мой стек
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" title="git" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/intellij/intellij-original.svg" title="intellij" width="40" height="40">
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" title="postman" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apache/apache-original.svg" title="jmeter" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original-wordmark.svg" title="java" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs code" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original-wordmark.svg" title="docker" width="40" height="45">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="45" height="50">
-  <img src="https://avatars.githubusercontent.com/u/5879127?s=400&v=4" title="allure" width="40" height="40">
-  <img src="https://avatars.mds.yandex.net/i?id=91133e4f1555b8172737d1b6e4fa288e_l-5347559-images-thumbs&n=13" title="javascript" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" width="40" height="40">
-  <img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fvendor-logos%2FMz%2FSR%2FAAJ7A1O0KU7H-180x180.JPEG&w=128&q=75" title="influxdb" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="dbeaver" width="40" height="40">
-  <img src="https://www.demoblaze.com/blazemeter-favicon-512x512.png" title="blazemeter" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="grafana" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="prometheus" width="40" height="40">
-  <img src="https://avatars.mds.yandex.net/i?id=440fdb0ad59d7bd0e494e40d49413904_sr-8185027-images-thumbs&n=13" title="owasp-zap" width="40" height="40">
-  <img src="https://blog.softwaretoolbox.com/hubfs/wireshark_story.jpg" title="wireshark" width="40" height="40">
-</div>
+| | | | | | | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/intellij/intellij-original.svg" width="40"/> | <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="40"/> | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apache/apache-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original-wordmark.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original-wordmark.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original-wordmark.svg" width="45"/> | <img src="https://avatars.githubusercontent.com/u/5879127?s=400&v=4" width="40"/> | <img src="https://avatars.mds.yandex.net/i?id=91133e4f1555b8172737d1b6e4fa288e_l-5347559-images-thumbs&n=13" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40"/> | <img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fvendor-logos%2FMz%2FSR%2FAAJ7A1O0KU7H-180x180.JPEG&w=128&q=75" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" width="40"/> | <img src="https://www.demoblaze.com/blazemeter-favicon-512x512.png" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" width="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" width="40"/> | <img src="https://avatars.mds.yandex.net/i?id=440fdb0ad59d7bd0e494e40d49413904_sr-8185027-images-thumbs&n=13" width="40"/> | <img src="https://blog.softwaretoolbox.com/hubfs/wireshark_story.jpg" width="40"/> |
 
 ---
 ## My Projects
