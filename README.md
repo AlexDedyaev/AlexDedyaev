@@ -57,7 +57,7 @@
     <td align="center"><img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" height="40"/></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></td>
-    <td align="center"><img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fvendor-logos%2FMz%2FSR%2FAAJ7A1O0KU7H-180x180.JPEG&w=128&q=75" width="40" height="40"/></td>
+    <td align="center"><img src="https://avatars.mds.yandex.net/i?id=a29f1a82421b3645f6e62c19e9468315b09afc48-12496338-images-thumbs&n=13" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/></td>
     <td align="center"><img src="https://www.demoblaze.com/blazemeter-favicon-512x512.png" width="40" height="40"/></td>
   </tr>
