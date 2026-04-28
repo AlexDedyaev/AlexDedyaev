@@ -15,9 +15,56 @@
 
 ## 🛠️ Мой стек
 
-| | | | | | | | | | | | | | | | | | | | |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /> | <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> | <img width="40" height="40" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" /> | <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> | <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/influxdb.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" /> | <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/blazemeter.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /> | <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" /> | <img width="40" height="40" src="https://raw.githubusercontent.com/zaproxy/zap-core-help/main/src/help/zaphelp/images/zap32x32.png" /> | <img width="40" height="40" src="https://www.wireshark.org/favicon.ico" /> |
+<table>
+  <tr>
+    <th>Git</th>
+    <th>IntelliJ IDEA</th>
+    <th>DevTools</th>
+    <th>Postman</th>
+    <th>JMeter</th>
+    <th>Jira</th>
+    <th>Java</th>
+    <th>VS Code</th>
+    <th>Docker</th>
+    <th>MySQL</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <th>Allure</th>
+    <th>JavaScript</th>
+    <th>Android Studio</th>
+    <th>InfluxDB</th>
+    <th>DBeaver</th>
+    <th>BlazeMeter</th>
+    <th>Grafana</th>
+    <th>Prometheus</th>
+    <th>OWASP ZAP</th>
+    <th>Wireshark</th>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" height="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/influxdb.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/blazemeter.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/zaproxy/zap-core-help/main/src/help/zaphelp/images/zap32x32.png" width="40" height="40"/></td>
+    <td><img src="https://www.wireshark.org/favicon.ico" width="40" height="40"/></td>
+  </tr>
+</table>
 
 ---
 ## My Projects
