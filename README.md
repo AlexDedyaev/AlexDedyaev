@@ -13,56 +13,54 @@
 
 ## 🛠️ Мой стек
 
-## 🛠️ Мой стек
-
-<table>
+<table style="width: 100%;">
   <tr>
-    <th>Git</th>
-    <th>IntelliJ IDEA</th>
-    <th>DevTools</th>
-    <th>Postman</th>
-    <th>JMeter</th>
-    <th>Jira</th>
-    <th>Java</th>
-    <th>VS Code</th>
-    <th>Docker</th>
-    <th>MySQL</th>
+    <th style="text-align: center; vertical-align: middle;">Git</th>
+    <th style="text-align: center; vertical-align: middle;">IntelliJ IDEA</th>
+    <th style="text-align: center; vertical-align: middle;">DevTools</th>
+    <th style="text-align: center; vertical-align: middle;">Postman</th>
+    <th style="text-align: center; vertical-align: middle;">JMeter</th>
+    <th style="text-align: center; vertical-align: middle;">Jira</th>
+    <th style="text-align: center; vertical-align: middle;">Java</th>
+    <th style="text-align: center; vertical-align: middle;">VS Code</th>
+    <th style="text-align: center; vertical-align: middle;">Docker</th>
+    <th style="text-align: center; vertical-align: middle;">MySQL</th>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></td>
   </tr>
   <tr>
-    <th>Allure</th>
-    <th>JavaScript</th>
-    <th>Android Studio</th>
-    <th>InfluxDB</th>
-    <th>DBeaver</th>
-    <th>BlazeMeter</th>
-    <th>Grafana</th>
-    <th>Prometheus</th>
-    <th>OWASP ZAP</th>
-    <th>Wireshark</th>
+    <th style="text-align: center; vertical-align: middle;">Allure</th>
+    <th style="text-align: center; vertical-align: middle;">JavaScript</th>
+    <th style="text-align: center; vertical-align: middle;">Android Studio</th>
+    <th style="text-align: center; vertical-align: middle;">InfluxDB</th>
+    <th style="text-align: center; vertical-align: middle;">DBeaver</th>
+    <th style="text-align: center; vertical-align: middle;">BlazeMeter</th>
+    <th style="text-align: center; vertical-align: middle;">Grafana</th>
+    <th style="text-align: center; vertical-align: middle;">Prometheus</th>
+    <th style="text-align: center; vertical-align: middle;">OWASP ZAP</th>
+    <th style="text-align: center; vertical-align: middle;">Wireshark</th>
   </tr>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" height="40"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/influxdb.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/></td>
-    <td> <img src="https://www.demoblaze.com/blazemeter-favicon-512x512.png" title="blazemeter" alt="blazemeter" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/zaproxy/zap-core-help/main/src/help/zaphelp/images/zap32x32.png" width="40" height="40"/></td>
-    <td><img src="https://www.wireshark.org/favicon.ico" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fvendor-logos%2FMz%2FSR%2FAAJ7A1O0KU7H-180x180.JPEG&w=128&q=75" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://www.demoblaze.com/blazemeter-favicon-512x512.png" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://raw.githubusercontent.com/zaproxy/zap-core-help/main/src/help/zaphelp/images/zap32x32.png" width="40" height="40"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://avatars.mds.yandex.net/i?id=440fdb0ad59d7bd0e494e40d49413904_sr-8185027-images-thumbs&n=13" width="40" height="40"/></td>
   </tr>
 </table>
 
