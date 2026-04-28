@@ -58,7 +58,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/influxdb.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/blazemeter.svg" width="40" height="40"/></td>
+    <td> <img src="https://www.demoblaze.com/blazemeter-favicon-512x512.png" title="blazemeter" alt="blazemeter" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/zaproxy/zap-core-help/main/src/help/zaphelp/images/zap32x32.png" width="40" height="40"/></td>
