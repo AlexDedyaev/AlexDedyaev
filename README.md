@@ -12,28 +12,28 @@
 ## Здравствуйте! Я Александр Дедяев, QA-инженер.
 
 ## 🛠️ Мой стек
-## 🛠️ Мой стек
-
-![git](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg)
-![intellij](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/intellij/intellij-original.svg)
-![devtools](https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png)
-![postman](https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg)
-![jmeter](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apache/apache-original.svg)
-![jira](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg)
-![java](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original-wordmark.svg)
-![vscode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)
-![docker](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original-wordmark.svg)
-![mysql](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original-wordmark.svg)
-![allure](https://avatars.githubusercontent.com/u/5879127?s=400&v=4)
-![javascript](https://avatars.mds.yandex.net/i?id=91133e4f1555b8172737d1b6e4fa288e_l-5347559-images-thumbs&n=13)
-![androidstudio](https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg)
-![influxdb](https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fvendor-logos%2FMz%2FSR%2FAAJ7A1O0KU7H-180x180.JPEG&w=128&q=75)
-![dbeaver](https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg)
-![blazemeter](https://www.demoblaze.com/blazemeter-favicon-512x512.png)
-![grafana](https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg)
-![prometheus](https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg)
-![owasp-zap](https://avatars.mds.yandex.net/i?id=440fdb0ad59d7bd0e494e40d49413904_sr-8185027-images-thumbs&n=13)
-![wireshark](https://blog.softwaretoolbox.com/hubfs/wireshark_story.jpg)
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp
+   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
+   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apache/apache-original.svg" title="jmeter" alt="jmeter" width="40" height="40">&nbsp
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs code" alt="vs code" width="40" height="40"/>&nbsp
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="45">&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="50" height="55">&nbsp;
+   <img src="https://avatars.githubusercontent.com/u/5879127?s=400&v=4" title="allure" alt="allure" width="45" height="45">&nbsp;
+   <img src="https://avatars.mds.yandex.net/i?id=91133e4f1555b8172737d1b6e4fa288e_l-5347559-images-thumbs&n=13" title="javascript" alt="javascript" width="40" height="40">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40">&nbsp;
+   <img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fvendor-logos%2FMz%2FSR%2FAAJ7A1O0KU7H-180x180.JPEG&w=128&q=75" title="influxdb" alt="influxdb" width="40" height="40">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="dbeaver" alt="dbeaver" width="40" height="40">&nbsp;
+   <img src="https://www.demoblaze.com/blazemeter-favicon-512x512.png" title="blazemeter" alt="blazemeter" width="40" height="40">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="grafana" alt="grafana" width="40" height="40">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="prometheus" alt="prometheus" width="40" height="40">&nbsp;
+   <img src="https://avatars.mds.yandex.net/i?id=440fdb0ad59d7bd0e494e40d49413904_sr-8185027-images-thumbs&n=13" title="owasp-zap" alt="owasp-zap" width="40" height="40">&nbsp;
+   <img src="https://blog.softwaretoolbox.com/hubfs/wireshark_story.jpg" title="wireshark" alt="wireshark" width="40" height="40">
+</div>
 
 ---
 ## My Projects
