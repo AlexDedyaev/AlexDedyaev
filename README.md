@@ -13,7 +13,8 @@
 
 ## 🛠️ Мой стек
 
-<table>
+
+<table align="center">
   <tr>
     <th align="center">Git</th>
     <th align="center">IntelliJ IDEA</th>
@@ -23,8 +24,6 @@
     <th align="center">Jira</th>
     <th align="center">Java</th>
     <th align="center">VS Code</th>
-    <th align="center">Docker</th>
-    <th align="center">MySQL</th>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></td>
@@ -35,31 +34,49 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></td>
   </tr>
+</table>
+
+<br />
+
+<!-- Вторая строка: 8 иконок -->
+<table align="center">
   <tr>
+    <th align="center">Docker</th>
+    <th align="center">MySQL</th>
     <th align="center">Allure</th>
     <th align="center">JavaScript</th>
     <th align="center">Android Studio</th>
     <th align="center">InfluxDB</th>
     <th align="center">DBeaver</th>
     <th align="center">BlazeMeter</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" height="40"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fvendor-logos%2FMz%2FSR%2FAAJ7A1O0KU7H-180x180.JPEG&w=128&q=75" width="40" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/></td>
+    <td align="center"><img src="https://www.demoblaze.com/blazemeter-favicon-512x512.png" width="40" height="40"/></td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Третья строка: 4 иконки -->
+<table align="center">
+  <tr>
     <th align="center">Grafana</th>
     <th align="center">Prometheus</th>
     <th align="center">OWASP ZAP</th>
     <th align="center">Wireshark</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40" height="40"/></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/influxdb.svg" width="40" height="40"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/blazemeter.svg" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="40" height="40"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/zaproxy/zap-core-help/main/src/help/zaphelp/images/zap32x32.png" width="40" height="40"/></td>
+    <td align="center"><img src="https://avatars.mds.yandex.net/i?id=440fdb0ad59d7bd0e494e40d49413904_sr-8185027-images-thumbs&n=13" width="40" height="40"/></td>
     <td align="center"><img src="https://www.wireshark.org/favicon.ico" width="40" height="40"/></td>
   </tr>
 </table>
