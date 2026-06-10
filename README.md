@@ -5,7 +5,7 @@
 ---
 
 **📧 Email:** [![Email](https://img.shields.io/badge/alexdedyaev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=blue)](mailto:alexdedyaev@gmail.com) <br>
-**✈️ MAX:** [![MAX](https://img.shields.io/badge/Alev-Dedyaev-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://max.ru/231373188]) <br>
+**✈️ MAX:** [![MAX](https://img.shields.io/badge/Alex-Dedyaev-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://max.ru/231373188]) <br>
  
 ---
 
