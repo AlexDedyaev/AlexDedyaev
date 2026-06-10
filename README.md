@@ -5,7 +5,7 @@
 ---
 
 **📧 Email:** [![Email](https://img.shields.io/badge/alexdedyaev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=blue)](mailto:alexdedyaev@gmail.com) <br>
-**<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/da863284-8ca1-43f3-a089-977a6be0199c" />:** [![MAX](https://img.shields.io/badge/@alexdedyaev-2CA5E0?style=flat-square&logo=telegram&logoColor=blue)](https://max.ru/231373188]) <br>
+**✈️ MAX:** [![MAX](https://img.shields.io/badge/@alexdedyaev-2CA5E0?style=flat-square&logo=telegram&logoColor=blue)](https://max.ru/231373188]) <br>
  
 ---
 
