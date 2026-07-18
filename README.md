@@ -5,7 +5,7 @@
 ---
 
 **📧 Email:** [![Email](https://img.shields.io/badge/alexdedyaev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=blue)](mailto:alexdedyaev@gmail.com) <br>
-**✈️ MAX:** [![MAX](https://img.shields.io/badge/Alex-Dedyaev-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://max.ru/231373188]) <br>
+**✈️ Telegram:** [![Telegram](https://img.shields.io/badge/@alexdedyaev-2CA5E0?style=flat-square&logo=telegram&logoColor=blue)](https://t.me/alexdedyaev) <br>
  
 ---
 
@@ -180,9 +180,6 @@
 * [Инъекции и уязвимости на уровне ОС](https://docs.google.com/document/d/17WuTbQtWBT53rbEmM4oA45yiLXwAAnPq8FHikI2Dzzc/edit?tab=t.0#heading=h.lyzazn4z8f8w)
 * [SQL, XSS, Code и другие инъекции](https://docs.google.com/document/d/1-q6mdfqnstOlM6nhUa-YNh8RS-nUV-WrQ1kwdNVZ4p4/edit?tab=t.0#heading=h.dtnj7pubsada)
 
-
-  
-
 ---
 ## Образование
 
@@ -202,5 +199,6 @@
 * [Тестирование безопасности.](https://drive.google.com/file/d/1aIRDJwmMrTutH62etNIjUryDbvDK1b-e/view?usp=sharing)
 
 ---
-
+**📧 Email:** [![Email](https://img.shields.io/badge/alexdedyaev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=blue)](mailto:alexdedyaev@gmail.com) <br>
+**✈️ Telegram:** [![Telegram](https://img.shields.io/badge/@alexdedyaev-2CA5E0?style=flat-square&logo=telegram&logoColor=blue)](https://t.me/alexdedyaev) <br>
 
